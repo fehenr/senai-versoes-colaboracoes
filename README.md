@@ -3,3 +3,4 @@ prática de git 1
 README de exemplo
 
 lembrei do comando: git commit
+lembrei do comando: git status
